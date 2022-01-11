@@ -1,9 +1,5 @@
 /* Write your CSS here! */
 
-
-h1 {
-    font-size: 50px;
-}
 a {
     color:#cc5bb8;
     font-size: 17px;
@@ -17,6 +13,11 @@ nav ul {
 nav ul li {
     display: inline-block;    
 }
+
+h1 {
+    font-size: 50px;
+}
+
 h2 {
     font-size: 30px;
 }
@@ -41,38 +42,6 @@ figure {
     text-align: center;
     color: #414e00;
 }
-.outlinedheader {
-    text-align: center;
-    font-family: cursive;
-    color: #414e00;
-    text-shadow:
-        1px -1px rgb(226, 172, 72),
-        -1px 1px rgb(226, 172, 72),
-        1px -1px rgb(226, 172, 72),
-        1px 1px rgb(226, 172, 72);
-}
-.tall {
-    height: 700px;
-    width: auto;
-}
-#contents {
-    background-color: #414e00;
-    border: rgb(226, 172, 72);
-    border-style: solid;
-    width: 86%;
-    margin: auto 7% 30px 7%;
-    text-align: center;
-}
-#mainbody {
-    background-color: #d2bf3f;
-    border: rgb(226, 172, 72);
-    border-style: double;
-    width: 80%;
-    margin: auto 10% auto 10%;
-}
-#copyright {
-    color: #80c4eb;
-    font-size: 13px;
-    margin-top: 5px;
-    margin-bottom: 5px;
-}
+
+
+
